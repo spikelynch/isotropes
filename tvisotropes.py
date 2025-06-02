@@ -3,7 +3,7 @@
 import json, random, string, requests, re, html
 import nltk
 from nltk.tokenize import word_tokenize
-from botclient import Bot
+from botclient.botclient import Bot
 
 elements = None
 
